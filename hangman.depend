@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1496660576 source:f:\igraphics\hangman\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1494055532 f:\igraphics\hangman\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
